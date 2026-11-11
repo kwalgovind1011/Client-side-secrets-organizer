@@ -2,7 +2,7 @@
 
 > **GLA University – Department of Computer Engineering & Applications**  
 > **Mini Project – 1 | Batch 7 | Section AC | Semester V**  
-> **Faculty Mentor / Guide:** Mr. Anurag Das
+> **Faculty Mentor / Guide:** Mr. Gagan Vishwakarma
 
 ---
 
